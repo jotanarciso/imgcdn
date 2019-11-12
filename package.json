@@ -1,0 +1,24 @@
+{
+  "name": "imgcdn",
+  "version": "1.0.0",
+  "description": "minify images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jotanarciso/imgcdn.git"
+  },
+  "author": "jotanarciso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jotanarciso/imgcdn/issues"
+  },
+  "homepage": "https://github.com/jotanarciso/imgcdn#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-tinypng-compress": "^1.2.5"
+  }
+}
